@@ -5,6 +5,7 @@ datetime
 yfinance
 scikit-learn
 keras
+tensorflow
 pandas_datareader
 streamlit
 plotly
